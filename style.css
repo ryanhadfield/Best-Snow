@@ -1,0 +1,21 @@
+#myMap {
+  margin: 20px;
+}
+nav {
+  font-family: "Permanent Marker", cursive;
+}
+
+#bestsnowfont {
+  font-family: "Permanent Marker", cursive;
+}
+
+#logoname{
+    color: #4d96d7; 
+}
+
+.bestsnowcolor{
+    color: #4d96d7; 
+}
+ol {
+  font-size: large;
+}
