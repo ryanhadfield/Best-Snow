@@ -25,7 +25,7 @@ When a user initiates the webpage, they can click on any snowflake on the map an
 [Click to access Best Snow](https://ryanhadfield.github.io/Best-Snow/)
 
 ## Screenshots
-![screenshot](./img/readme-screenshot1.png)
+![screenshot](./img/readme-screenshot4.png)
 ---
 ![site in action](./img/readme-screenshot2.png)
 ---
