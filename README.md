@@ -26,7 +26,9 @@ When a user initiates the webpage, they can click on any snowflake on the map an
 
 ## Screenshots
 ![screenshot](./img/readme-screenshot1.png)
+---
 ![site in action](./img/readme-screenshot2.png)
+---
 ![graphs](./img/readme-screenshot3.png)
 
 
