@@ -22,7 +22,7 @@ When a user initiates the webpage, they can click on any snowflake on the map an
 ![tech stack](./img/html-css-js.png)
 ## Link to Site
 
-[Click to access Best Snow](https://pfvatterott.github.io/BestSnow/)
+[Click to access Best Snow](https://ryanhadfield.github.io/Best-Snow/)
 
 ## Screenshots
 ![screenshot](./img/readme-screenshot1.png)
@@ -45,14 +45,10 @@ Email: ryan.hadfield@gmail.com
 [Github](https://github.com/AsherPappas) <br>
 Email: asherpappas@gmail.com
 
-### Ron Edmonds
-[Github](https://github.com/ronedmonds35) <br>
-Email: ronedmonds35@gmail.com
-
 ## License
 MIT License
 
-Copyright (c) 2021 Paul Vatterott Ryan Hadfield Asher Pappas Ron Edmonds
+Copyright (c) 2021 Paul Vatterott, Ryan Hadfield, Asher Pappas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
